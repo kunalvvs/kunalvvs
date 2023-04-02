@@ -43,6 +43,6 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
 
 
 
-![snake animation]
-(https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
+https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg
 
