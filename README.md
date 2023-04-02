@@ -43,9 +43,8 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/kuna/kuna/blob/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
   
