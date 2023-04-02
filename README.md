@@ -49,7 +49,7 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
 
 ###
 
-<img src="https://raw.githubusercontent.com/kuna/kuna/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kunalvvs/kunalvvs/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
