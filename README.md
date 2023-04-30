@@ -32,7 +32,34 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
   
   
  
+<h1 align="left"></h1>
 
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kuna/kuna/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
