@@ -28,40 +28,4 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kunalvvsJ) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-  
- 
-<h1 align="left"></h1>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/kunalvvs/kunalvvs/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-![snake gif](https://github.com/kunalvvs/kunalvvs/blob/output/github-contribution-grid-snake.gif)
 
