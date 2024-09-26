@@ -19,13 +19,16 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+[![An image of @kunalv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunalv)](https://holopin.io/@kunalv)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kunalvvs&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kunalvvsJ) 
+
+
+
+
 
 
