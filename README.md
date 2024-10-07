@@ -19,6 +19,8 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
+###  My ⚠️Holopin Board
+
 [![An image of @kunalv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunalv)](https://holopin.io/@kunalv)
 
 ---
