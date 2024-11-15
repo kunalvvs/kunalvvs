@@ -17,7 +17,8 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalvvs&show_icons=true&locale=en" alt="kunalvvs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalvvs&" alt="kunalvvs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalvvs&"  /></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunalvvs&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
