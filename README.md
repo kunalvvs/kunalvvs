@@ -13,6 +13,12 @@ A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kunalvvs&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalvvs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalvvs&show_icons=true&locale=en&layout=compact" alt="kunalvvs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalvvs&show_icons=true&locale=en" alt="kunalvvs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalvvs&" alt="kunalvvs" /></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunalvvs&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
