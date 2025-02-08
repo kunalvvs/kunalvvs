@@ -2,6 +2,7 @@
 A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in final year, As of now, I am focused on web development, Data Science and Machine Learning but still, wish to explore many fields. ⚡
 🔭 I’m currently working on Various projects<br>🌱 I’m currently learning competitive programming.<br>💬 Ask me about GCP, IT related topics etc.<br>📫 How to reach me: https://bit.ly/3yMhlnj and https://www.linkedin.com/in/kunalvvs/<br>😄 Pronouns: He/His<br>⚡ Fun fact:  AI Mindset 
 
+![](https://komarev.com/ghpvc/?username=kunalvvs&color=green)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/897883335014113342) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kunal_vvs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalvvs/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kunalvvs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com//@innovativedeveloper) 
