@@ -1,5 +1,5 @@
 # 💫 About Me:
-A bit about Myself, I am Kunal pursuing my Computer Science Degree currently in final year, As of now, I am focused on web development, Data Science and Machine Learning but still, wish to explore many fields. ⚡
+A bit about Myself, I am Kunal pursuing my Master and Computer Application Degree currently in final year, As of now, I am focused on web development, Data Science and Machine Learning but still, wish to explore many fields. ⚡
 🔭 I’m currently working on Various projects<br>🌱 I’m currently learning competitive programming.<br>💬 Ask me about GCP, IT related topics etc.<br>📫 How to reach me: https://kunalvvs.bio.link/ and https://www.linkedin.com/in/kunalvvs/<br>😄 Pronouns: He/His<br>⚡ Fun fact:  AI Mindset 
 
 ![](https://komarev.com/ghpvc/?username=kunalvvs&color=green)
